@@ -1,0 +1,41 @@
+body {
+      background-color: lightblue;
+   
+    }
+
+    #bloque1 {
+    
+      background-color: gold;
+      border: 2px solid;
+      margin-top: 3px; 
+      margin-bottom: 5px;
+ 
+    }
+    #bloque2 {
+      background-color: silver;
+      border: 2px solid;
+      
+    }
+.image {
+   text-align:center;
+  
+}
+.imge { 
+text-align:center;
+ 
+ #div1 {
+        width: 200px;
+        height: 100px;
+        background-color: yellow;
+        margin-bottom: 20px;
+    }
+    #div2 {
+        width: 200px;
+        height: 100px;
+        background-color: red;
+    }
+#map {
+            height: 400px;
+            width: 100%;
+            margin-top: 20px; 
+        }
